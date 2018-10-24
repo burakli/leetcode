@@ -1,3 +1,3 @@
 LeetCode Problems Golang Solutions
 
-LeetCode site: https://leetcode.com/problemset/all/
+LeetCode Problems Site: https://leetcode.com/problemset/all/
